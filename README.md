@@ -1,6 +1,6 @@
 <div align="center">
 
-![Vitrine das Almas Manifesto](/C:/Users/thiag/.gemini/antigravity/brain/bb0a5686-753f-4523-8a8d-282df70df35f/vitrine_manifesto_banner_1776844072478.png)
+![Vitrine das Almas Manifesto](./banner.png)
 
 # VITRINE DAS ALMAS
 ### THE ARCHITECTURE OF PRESENCE
