@@ -15,7 +15,7 @@
 
 ---
 
-### [ 👁️ ENTER THE VITRINE ](https://ai.studio/apps/drive/10G1ssvsHRvylxsW-djdmKLrkwXwBtQly) &nbsp;&nbsp; | &nbsp;&nbsp; [ 👤 CONNECT ON LINKEDIN ](https://www.linkedin.com/in/thiagomendonca/)
+### [ 👁️ ENTER THE VITRINE ](https://floodnet666.github.io/Vitrine/) &nbsp;&nbsp; | &nbsp;&nbsp; [ 👤 CONNECT ON LINKEDIN ](https://www.linkedin.com/in/thiagomendonca/)
 
 ---
 
